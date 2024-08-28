@@ -11,6 +11,8 @@ It means that it deals with distinct or separate values (e.g., 0, 1, 2, ...). Us
 ### Gaussian Distribution
 The Gaussian Distribution, commonly known as the Normal Distribution, is a continuous probability distribution characterized by its bell-shaped curve. It is widely used due to the Central Limit Theorem, which states that the sum of a large number of independent random variables tends to be normally distributed, regardless of their original distribution. meaning it deals with a continuum of values (e.g., all real numbers). It is used for continuous data where the distribution tends to cluster around a mean.
 
+![gaussian_graph](https://miro.medium.com/v2/resize:fit:640/format:webp/0*RM4ZJOC0xAN5Fug5.png)
+
 ### Project Structure
 ```
 dsnd_probability_v2-0.1/
