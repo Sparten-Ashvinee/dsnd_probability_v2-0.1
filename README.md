@@ -12,7 +12,7 @@ The Gaussian Distribution, commonly known as the Normal Distribution, is a conti
 Gaussian: Used for continuous data where the distribution tends to cluster around a mean.Gaussian: Used for continuous data where the distribution tends to cluster around a mean.
 
 ### Project Structure
-'''
+```
 dsnd_probability_v2-0.1/
 ├── dsnd_probability_v2               # Main package directory
 │   ├── __init__.py                   # Initialize the package
@@ -30,4 +30,4 @@ dsnd_probability_v2-0.1/
 ├── setup.py                          # Setup script for packaging
 ├── setup.cfg                         # Config file for packaging
 └── PKG-INFO                          # Package information
-'''
+```
