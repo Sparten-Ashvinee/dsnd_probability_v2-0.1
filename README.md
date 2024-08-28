@@ -4,12 +4,10 @@ Both Binomial and Gaussian (Normal) distributions are fundamental concepts in st
 
 ### Binomial Distribution
 The Binomial Distribution is a discrete probability distribution that models the number of successes in a fixed number of independent trials, each with the same probability of success.
-meaning it deals with distinct or separate values (e.g., 0, 1, 2, ...).
-Binomial: Used for discrete events with fixed trials and success/failure outcomes.
+It means that it deals with distinct or separate values (e.g., 0, 1, 2, ...). Used for discrete events with fixed trials and success/failure outcomes.
 
 ### Gaussian Distribution
-The Gaussian Distribution, commonly known as the Normal Distribution, is a continuous probability distribution characterized by its bell-shaped curve. It is widely used due to the Central Limit Theorem, which states that the sum of a large number of independent random variables tends to be normally distributed, regardless of their original distribution. meaning it deals with a continuum of values (e.g., all real numbers).
-Gaussian: Used for continuous data where the distribution tends to cluster around a mean.Gaussian: Used for continuous data where the distribution tends to cluster around a mean.
+The Gaussian Distribution, commonly known as the Normal Distribution, is a continuous probability distribution characterized by its bell-shaped curve. It is widely used due to the Central Limit Theorem, which states that the sum of a large number of independent random variables tends to be normally distributed, regardless of their original distribution. meaning it deals with a continuum of values (e.g., all real numbers). It is used for continuous data where the distribution tends to cluster around a mean.
 
 ### Project Structure
 ```
@@ -19,7 +17,7 @@ dsnd_probability_v2-0.1/
 │   ├── Binomialdistribution.py       # Binomial distribution
 │   ├── Gaussiandistribution.py       # Gaussian distribution
 │   └── Generaldistribution.py        # General distribution
-├── dsnd_probability_v2.egg-info/     # Directory for test files
+├── dsnd_probability_v2.egg-info/     # Directory for pkg info
 │   ├── PKG-INFO                      # Package information
 │   ├── SOURCES.txt                   # source directory path
 │   ├── dependency_links.txt          
