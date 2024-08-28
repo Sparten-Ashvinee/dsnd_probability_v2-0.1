@@ -31,3 +31,14 @@ dsnd_probability_v2-0.1/
 ├── setup.cfg                         # Config file for packaging
 └── PKG-INFO                          # Package information
 ```
+
+### Release on PyPI
+- Creeate account on PyPI
+- Upload the Package Using Twine
+
+
+### Resources
+- https://packaging.python.org/en/latest/tutorials/packaging-projects/
+- https://simonwillison.net/2021/Nov/4/publish-open-source-python-library/
+- https://www.youtube.com/watch?v=Kz6IlDCyOUY
+- https://www.turing.com/kb/how-to-create-pypi-packages
