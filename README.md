@@ -40,6 +40,7 @@ dsnd_probability_v2-0.1/
 
 
 ### Resources
+- https://becominghuman.ai/statistical-distributions-533260f370f2
 - https://packaging.python.org/en/latest/tutorials/packaging-projects/
 - https://simonwillison.net/2021/Nov/4/publish-open-source-python-library/
 - https://www.youtube.com/watch?v=Kz6IlDCyOUY
