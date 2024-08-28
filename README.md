@@ -10,3 +10,22 @@ Binomial: Used for discrete events with fixed trials and success/failure outcome
 ### Gaussian Distribution
 The Gaussian Distribution, commonly known as the Normal Distribution, is a continuous probability distribution characterized by its bell-shaped curve. It is widely used due to the Central Limit Theorem, which states that the sum of a large number of independent random variables tends to be normally distributed, regardless of their original distribution. meaning it deals with a continuum of values (e.g., all real numbers).
 Gaussian: Used for continuous data where the distribution tends to cluster around a mean.Gaussian: Used for continuous data where the distribution tends to cluster around a mean.
+
+### Project Structure
+dsnd_probability_v2-0.1/
+├── dsnd_probability_v2               # Main package directory
+│   ├── __init__.py                   # Initialize the package
+│   ├── Binomialdistribution.py       # Binomial distribution
+│   ├── Gaussiandistribution.py       # Gaussian distribution
+│   └── Generaldistribution.py        # General distribution
+├── dsnd_probability_v2.egg-info/     # Directory for test files
+│   ├── PKG-INFO                      # Package information
+│   ├── SOURCES.txt                   # source directory path
+│   ├── dependency_links.txt          
+│   ├── not-zip-safe                  
+│   └── top_level.txt 
+├── LICENSE                           # License file
+├── README.md                         # README file
+├── setup.py                          # Setup script for packaging
+├── setup.cfg                         # Config file for packaging
+└── PKG-INFO                          # Package information
