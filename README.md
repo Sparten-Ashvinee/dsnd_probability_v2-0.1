@@ -1,4 +1,4 @@
-Python library for statistics
+# Python library for statistics
 
 Both Binomial and Gaussian (Normal) distributions are fundamental concepts in statistics and probability theory. They serve different purposes and are used to model different types of data.
 
