@@ -35,7 +35,7 @@ dsnd_probability_v2-0.1/
 ```
 
 ### Release on PyPI
-- Creeate account on PyPI
+- Create account on PyPI
 - Upload the Package Using Twine
 
 
